@@ -1,0 +1,22 @@
+JUNIOR AI RESEARCH ASSOCIATE
+Location: Remote / Hybrid (New York, NY)
+Type: Full-Time
+
+POSITION OVERVIEW:
+We are seeking a highly motivated and technically proficient Junior AI Research Associate to join our advanced AI R&D team. In this role, you will assist in developing, optimizing, and evaluating state-of-the-art NLP systems, large language models (LLMs), and semantic search engines. The ideal candidate has strong coding capabilities in Python, hands-on experience with deep learning frameworks, and a solid understanding of natural language processing concepts.
+
+KEY RESPONSIBILITIES:
+- Implement, train, and fine-tune NLP models, specifically Sentence Transformers, BERT-based architectures, and LLMs.
+- Build and evaluate semantic similarity, retrieval-augmented generation (RAG), and text classification systems.
+- Conduct data preprocessing, text cleaning, parsing, and analysis of large, unstructured text corpora.
+- Collaborate with senior scientists to write research prototypes, technical reports, and documentation.
+- Maintain and deploy lightweight demo applications using frameworks like Streamlit.
+
+REQUIRED SKILLS & QUALIFICATIONS:
+- Python programming expertise (object-oriented, clean code principles, PEP 8).
+- Experience with PyTorch or TensorFlow, and machine learning libraries (Scikit-Learn, Pandas, NumPy).
+- Direct experience with Natural Language Processing (NLP) concepts (embeddings, cosine similarity, tokenization).
+- Familiarity with Hugging Face transformers library and Sentence Transformers (e.g., all-MiniLM-L6-v2).
+- Strong research capabilities: ability to read scientific papers, extract methodologies, and implement prototypes.
+- Excellent communication and technical writing skills.
+- Bachelor's or Master's degree in Computer Science, Data Science, Computational Linguistics, or a related quantitative field.
