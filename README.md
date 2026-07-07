@@ -70,7 +70,7 @@ Ensure you have Python 3.10+ installed. Follow the commands below to set up your
 
 ## 🚀 How to Run
 
-### 1. Generate Sample Data
+### 1. Generate Sample Data(Optional)
 To test the application immediately with 10 pre-constructed realistic candidates (representing various qualification match levels: Strong, Moderate, and Weak):
 ```bash
 python generate_sample_data.py
